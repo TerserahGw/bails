@@ -2,6 +2,9 @@
   "name": "@TerserahGw/bails",
   "version": "6.7.4",
   "description": "WhatsApp API",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "whatsapp",
     "js-whatsapp",
